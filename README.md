@@ -1,3 +1,4 @@
+![logo](https://github.com/nadira1187/nadira1187/blob/main/linkedin%20banner.png)
 <div style="background-color: black; text-align: center; padding: 20px; border-radius: 10px;">
   <h1 style="color: white;" align="center">Hi 👋, I'm Nadira</h1>
 
