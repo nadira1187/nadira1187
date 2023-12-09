@@ -31,3 +31,26 @@
 <h2>📈 Current Stats</h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadira1187&" alt="nadira1187" /></p>
+ <h2 style="color: white;" align="left">💻 Projects
+</h2>
+<h3>Byte Blitz</h3>
+<a href="https://byte-blitz-client.web.app/">Live Link</a>
+<h4>Features</h4>
+<p>* Users can explore the latest tech products showcased on the platform.</p>
+<p>* Moderators play a crucial role in maintaining the quality of the platform. </p>
+<p>* Users have personalized dashboards where they can manage their profiles and track their contributions.</p>
+<p>* The homepage features a dynamic display of products, with a focus on both featured and trending items.</p>
+<h3>Stay Zayn</h3>
+<a href="https://hapless-approval.surge.sh">Live Link</a>
+<h4>Features</h4>
+<p>* My web app offers a user-friendly and visually appealing interface to help users easily browse and book hotel rooms. </p>
+<p>*Users can effortlessly book hotel rooms by selecting their preferred dates and providing their personal information. </p>
+<p>*Registered users have access to the "My Bookings" page, where they can view and manage their bookings.</p>
+<p>*Registered users who have booked a room can share their experiences by posting reviews. </p>
+<h3>Lush Beauty</h3>
+<a href="https://lush-beauty-client.web.app">Live Link</a>
+<h4>Features</h4>
+<p>*Users can register and log in using their email and password by implementing error handling for password criteria during registration</p>
+<p>*Users can add new products to the database via a form.</p>
+<p>*Users can click on a product to view detailed information Including an "Add to Cart" button to add the product to the user's cart.</p>
+<p>*Users can view all products added to their cart.They can choose to delete a product by implementing a user-friendly design for this page .</p>
