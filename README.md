@@ -1,6 +1,7 @@
 ![logo](https://github.com/nadira1187/nadira1187/blob/main/linkedin%20banner.png)
 <div style="background-color: black; text-align: center; padding: 20px; border-radius: 10px;">
   <h1 style="color: white;" align="center">Hi 👋, I'm Nadira</h1>
+  <h3 align="center">Code Weaver and Innovation Enthusiast 🚀✨</h3>
    <h2>👀 Present overview</h2>
   <h4 style="color: white;">🔭 I’m currently working on -<a href="https://byte-blitz-client.web.app/" style="color: #3498db;">ByteBlitz</a></h4>
 
