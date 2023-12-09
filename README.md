@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadira1187&show_icons=true&locale=en" alt="nadira1187" /></p>
 <h2>📈 Current Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadira1187&" alt="nadira1187" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadira1187&" alt="nadira1187" /></p>
